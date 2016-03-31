@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Hobson::VERSION
   spec.authors       = ['plutonbacon']
   spec.email         = ['plutonbacon@dynosoft.org']
-  spec.summary       = ''
+  spec.summary       = 'Extend the core capabilities of Ruby!'
   spec.homepage      = 'https://github.com/plutonbacon/hobson.git'
   spec.license       = 'MIT'
 
